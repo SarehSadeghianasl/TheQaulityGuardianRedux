@@ -1,0 +1,1 @@
+A comprehensive list of the differences between the game used for the evaluation of The Quality Guardian Rosebud gamified system and its public version is available at: https://event-log-quality.s3.amazonaws.com/qg2/ChangeLog.pdf
